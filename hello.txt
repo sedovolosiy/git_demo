@@ -1,2 +1,2 @@
 Hello world!
-Text about Python
+Text about Javascript

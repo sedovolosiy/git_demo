@@ -1,4 +1,5 @@
 Hello world!
 Text about Python
+Text about Javascript
 New Changes
 I'm loved this languges
